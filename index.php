@@ -11,6 +11,10 @@
 <body>
     <h2>coba git 2</h2>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo a dolores quos iusto consectetur tempora maiores, dolor in illum quia! Repellat cumque recusandae expedita delectus officiis exercitationem, vero soluta perspiciatis.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
